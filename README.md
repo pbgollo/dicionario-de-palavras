@@ -8,6 +8,12 @@
 
 > A implementação apresentada é um sistema de gerenciamento de mensagens, onde emissores e receptores são elementos-chave na comunicação. O programa permite o envio de mensagens de emissores para receptores por meio de filas de mensagens. A estrutura de dados utilizada simplifica a organização dos elementos, permitindo a inclusão, remoção, consulta e gerenciamento de mensagens entre eles. O programa também oferece funcionalidades de relatórios, permitindo a geração de informações detalhadas sobre a interação entre emissores e receptores.
 
+## 🔧 Tecnologias Utilizadas
+
+No projeto, a principal tecnologia adotada foi a linguagem de programação C. O código utiliza conceitos básicos da linguagem e estruturas de dados simples como árvores binárias.
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atende aos seguintes requisitos:
@@ -20,12 +26,10 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
 Para compilar e executar o aplicativo, siga estas etapas:
 
 - Abra um terminal e navegue até o diretório onde o arquivo C está localizado
-- Compile o código usando o compilador C (por exemplo, `mensageira.c -o seu_programa`)
+- Compile o código usando o compilador C (por exemplo, `gcc dicionario.c -o seu_programa`)
 - Execute o programa resultante (por exemplo, `./seu_programa`)
 
 ## ☕ Entendendo o Código
-
-Para um melhor entendimento da implementação das estruturas de dados no programa, você pode revisar o arquivo de <a href="/explicacao-das-estruturas.pdf">explicação das estrururas</a>.
 
 Certifique-se de ler e entender o código para uma melhor utilização.
 
