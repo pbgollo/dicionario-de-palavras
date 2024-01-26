@@ -1,8 +1,8 @@
 # Dicionário de Palavras: Implementação de ABPs
 
-![GitHub repo size](https://img.shields.io/github/repo-size/pbgollo/mensageira?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/mensageira?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/pbgollo/mensageira?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/pbgollo/dicionario-de-palavras?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/dicionario-de-palavras?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/pbgollo/dicionario-de-palavras?style=for-the-badge)
 
 <img src="imagem.png" alt="Exemplo imagem">
 
