@@ -1,4 +1,4 @@
-# Dicionário de Palavras: Implementação de ABP's
+# Dicionário de Palavras: Implementação de ABPs
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pbgollo/mensageira?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/mensageira?style=for-the-badge)
